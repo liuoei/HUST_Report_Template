@@ -14,7 +14,7 @@
 
 所有西文及数字均采用Times New Roman字体
 
-公式采用Axmath插入（所以你的电脑上可能会显示为图片，无法编辑。你也可以采用Mathtype或 “Alt+=”进行公式插入。公式自动编号请参考https://blog.csdn.net/u011086331/article/details/103903905）
+公式采用Axmath插入（所以你的电脑上可能会显示为图片，无法编辑。你也可以采用Mathtype或 “Alt+=”进行公式插入。公式自动编号请参考https://blog.csdn.net/u011086331/article/details/103903905 ）
 
 图片标题、表格标题均采用题注形式进行插入，题注格式为宋体小四号，字母和数字则为Times New Roman字体。在引用时请尽量采取交叉引用的方式，不要手动输入编号。
 
